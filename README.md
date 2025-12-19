@@ -5,18 +5,18 @@ This project implements a laser-based intrusion detection system using an Arduin
 A laser beam is continuously aligned with the LDR. Under normal conditions, the LDR receives constant light from the laser. When any object or person passes through the laser path, the beam is interrupted, causing a sudden change in light intensity. The Arduino detects this variation and immediately triggers a buzzer to indicate an intrusion.
 
 This system can be used for security and protection applications, such as:
-~ Museums and art galleries
-~ Restricted or high-security areas
-~ Protection of valuable objects
-~ Entry monitoring and alert systems
+1. Museums and art galleries
+2. Restricted or high-security areas
+3. Protection of valuable objects
+4. Entry monitoring and alert systems
 
 The project is simple, cost-effective, and demonstrates the practical use of optical sensors, Arduino programming, and real-time alert mechanisms.
 
 Features:
-~ Real-time intrusion detection
-~ Quick response using laser–LDR sensing
-~ Easy to implement and scalable
-~ Suitable for beginners and security-based projects
+1. Real-time intrusion detection
+2. Quick response using laser–LDR sensing
+3. Easy to implement and scalable
+4. Suitable for beginners and security-based projects
 
 Components Used:
 1. Arduino UNO
